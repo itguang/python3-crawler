@@ -14,6 +14,6 @@ if count == 100:
 ## 运行步骤
 
 ``` bash
-IDE下运行spider_main (推荐使用pycharm)
+IDE下运行spider_main 
 
 ```
